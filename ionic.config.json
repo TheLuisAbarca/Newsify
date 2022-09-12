@@ -1,0 +1,7 @@
+{
+  "name": "Newsify",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
